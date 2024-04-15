@@ -9,6 +9,8 @@ Sou uma profissional de qualidade dedicada, com profundo interesse na área de q
 
 ## Linguagens
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python)&nbsp;
+
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=java)
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript)&nbsp;
 </h2>
